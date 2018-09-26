@@ -1,0 +1,2 @@
+server="mongodb://localhost:3030/todoApp"
+database="todoApp"
